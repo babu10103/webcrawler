@@ -1,0 +1,5 @@
+venv
+b_bookscraper/chatGPT.md
+b_bookscraper/books.db
+b_bookscraper/b_bookscraper/spiders/__pycache__
+b_bookscraper/b_bookscraper/__pycache__
